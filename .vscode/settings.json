@@ -51,5 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "SportsGame.sln"
+    "dotnet.defaultSolution": "SportsGame.sln",
+    "dotnet.debug.suppressInvalidDebugTypeWarning": true
 }
